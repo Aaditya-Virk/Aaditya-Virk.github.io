@@ -1,0 +1,13 @@
+title: Aadi.makes
+description: Personal maker website and project portfolio
+url: https://Aaditya-Virk.github.io
+
+remote_theme: mmistakes/minimal-mistakes@4.27.3
+
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: dark
+
+author:
+  name: Aaditya Virk
